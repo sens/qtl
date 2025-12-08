@@ -33,7 +33,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include <R_ext/Utils.h>
 #include "markerlrt.h"
 #include "util.h"

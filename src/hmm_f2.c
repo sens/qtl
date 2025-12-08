@@ -39,7 +39,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include "hmm_main.h"
 #include "hmm_f2.h"
 

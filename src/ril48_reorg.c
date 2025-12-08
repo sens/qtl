@@ -35,8 +35,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
-#include <R_ext/Utils.h>
 #include "ril48_reorg.h"
 #include "util.h"
 

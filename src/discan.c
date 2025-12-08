@@ -34,7 +34,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include <R_ext/Utils.h>
 #include "util.h"
 #include "discan.h"

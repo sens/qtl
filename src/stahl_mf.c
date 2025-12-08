@@ -38,7 +38,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include "util.h"
 #include "stahl_mf.h"
 #include "zeroin.h"

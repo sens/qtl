@@ -34,7 +34,6 @@
 #include <Rconfig.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include <R_ext/Applic.h>
 #include <R_ext/Lapack.h>
 #include "lapackutil.h"

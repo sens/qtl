@@ -32,7 +32,6 @@
 #include <stdio.h>
 #include <R.h>
 #include <Rmath.h>
-#include <R_ext/PrtUtil.h>
 #include <R_ext/RS.h> /* for Calloc, Realloc */
 #include <R_ext/Utils.h>
 #include "util.h"

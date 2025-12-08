@@ -1,5 +1,10 @@
 # Revision history for the R/qtl package
 
+## Version 1.73-1, 2025-12-08
+
+- Removed includes of `R_ext/PrtUtil.h` which began causing warnings on CRAN.
+
+
 ## Version 1.72, 2025-11-19
 
 ### Minor changes
